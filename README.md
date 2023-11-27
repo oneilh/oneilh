@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am O'Neil Obidiaso!
+I am an aspiring frontend developer. I am passionate of creating user-friendly interfaces and exploring more in the technologies in web development.
+
 
 <!--
 **oneilh/oneilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning React js and Python.
+- 👯 I’m looking to collaborate on interesting and more extensive projects.
+- 🤔 I’m looking for help with any that can constantly improve my skills.
+- 📫 How to reach me: Twitter [@ONeilObi1]
