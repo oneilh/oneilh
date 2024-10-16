@@ -1,5 +1,5 @@
 ### Hi there 👋, I am O'Neil Obidiaso!
-I am an aspiring frontend developer. I am passionate of creating user-friendly interfaces and exploring more in the technologies in web development.
+Crazy 🤪😜 Frontend Engineer and UI UX designer. coding and replicating designs to code is what i love to do.
 
 
 <!--
