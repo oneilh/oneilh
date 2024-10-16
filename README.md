@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React js and Python.
+- 🌱 React Js intermidiate 
 - 👯 I’m looking to collaborate on interesting and more extensive projects.
 - 🤔 I’m looking for help with any that can constantly improve my skills.
 - 📫 How to reach me: Twitter [@ONeilObi1]
